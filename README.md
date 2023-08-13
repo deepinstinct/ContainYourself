@@ -37,3 +37,7 @@ Make sure to clone the repository and its submodules:
 
 Every security product has the capability to incorporate its unique algorithm designed to counter ransomware and wiper threats. It cannot be guaranteed that this proof-of-concept will successfully circumvent every existing protection solution available.
 
+## Credits
+
+* [Daniel Avinoam](https://twitter.com/daniel_avinoam)
+
