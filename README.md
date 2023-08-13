@@ -1,6 +1,9 @@
 # ContainYourself
 A POC of the ContainYourself research presented in DEF CON 31, which abuses the Windows containers framework to bypass EDRs.
 
+Slides:
+https://media.defcon.org/DEF%20CON%2031/DEF%20CON%2031%20presentations/Daniel%20Avinoam%20-%20Contain%20Yourself%20Staying%20Undetected%20Using%20the%20Windows%20Container%20Isolation%20Framework.pdf
+
 ## Installation
 Make sure to clone the repository and its submodules:
 
